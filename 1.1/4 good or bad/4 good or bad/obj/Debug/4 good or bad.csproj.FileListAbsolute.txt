@@ -1,0 +1,5 @@
+D:\Учёба\Практика\4 good or bad\4 good or bad\bin\Debug\4 good or bad.exe.config
+D:\Учёба\Практика\4 good or bad\4 good or bad\bin\Debug\4 good or bad.exe
+D:\Учёба\Практика\4 good or bad\4 good or bad\bin\Debug\4 good or bad.pdb
+D:\Учёба\Практика\4 good or bad\4 good or bad\obj\Debug\4 good or bad.exe
+D:\Учёба\Практика\4 good or bad\4 good or bad\obj\Debug\4 good or bad.pdb

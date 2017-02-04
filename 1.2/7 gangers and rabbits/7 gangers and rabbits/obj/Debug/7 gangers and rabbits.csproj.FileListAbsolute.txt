@@ -1,0 +1,5 @@
+D:\Учёба\Практика\1.2\7 gangers and rabbits\7 gangers and rabbits\bin\Debug\7 gangers and rabbits.exe.config
+D:\Учёба\Практика\1.2\7 gangers and rabbits\7 gangers and rabbits\bin\Debug\7 gangers and rabbits.exe
+D:\Учёба\Практика\1.2\7 gangers and rabbits\7 gangers and rabbits\bin\Debug\7 gangers and rabbits.pdb
+D:\Учёба\Практика\1.2\7 gangers and rabbits\7 gangers and rabbits\obj\Debug\7 gangers and rabbits.exe
+D:\Учёба\Практика\1.2\7 gangers and rabbits\7 gangers and rabbits\obj\Debug\7 gangers and rabbits.pdb

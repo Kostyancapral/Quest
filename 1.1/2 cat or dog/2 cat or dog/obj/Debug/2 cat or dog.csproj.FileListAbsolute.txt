@@ -1,0 +1,8 @@
+D:\Учёба\Практика\2 cat or dog\2 cat or dog\bin\Debug\2 cat or dog.exe.config
+D:\Учёба\Практика\2 cat or dog\2 cat or dog\bin\Debug\2 cat or dog.exe
+D:\Учёба\Практика\2 cat or dog\2 cat or dog\bin\Debug\2 cat or dog.pdb
+D:\Учёба\Практика\2 cat or dog\2 cat or dog\obj\Debug\2 cat or dog.exe
+D:\Учёба\Практика\2 cat or dog\2 cat or dog\obj\Debug\2 cat or dog.pdb
+D:\Учёба\Практика\1.1\2 cat or dog\2 cat or dog\bin\Debug\2 cat or dog.exe.config
+D:\Учёба\Практика\1.1\2 cat or dog\2 cat or dog\obj\Debug\2 cat or dog.exe
+D:\Учёба\Практика\1.1\2 cat or dog\2 cat or dog\obj\Debug\2 cat or dog.pdb

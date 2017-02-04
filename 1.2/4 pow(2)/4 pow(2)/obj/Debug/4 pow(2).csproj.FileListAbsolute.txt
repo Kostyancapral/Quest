@@ -1,0 +1,5 @@
+D:\Учёба\Практика\1.2\4 pow(2)\4 pow(2)\bin\Debug\4 pow(2).exe.config
+D:\Учёба\Практика\1.2\4 pow(2)\4 pow(2)\bin\Debug\4 pow(2).exe
+D:\Учёба\Практика\1.2\4 pow(2)\4 pow(2)\bin\Debug\4 pow(2).pdb
+D:\Учёба\Практика\1.2\4 pow(2)\4 pow(2)\obj\Debug\4 pow(2).exe
+D:\Учёба\Практика\1.2\4 pow(2)\4 pow(2)\obj\Debug\4 pow(2).pdb

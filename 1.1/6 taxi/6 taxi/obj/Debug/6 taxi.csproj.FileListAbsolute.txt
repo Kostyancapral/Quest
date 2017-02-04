@@ -1,0 +1,5 @@
+D:\Учёба\Практика\6 taxi\6 taxi\bin\Debug\6 taxi.exe.config
+D:\Учёба\Практика\6 taxi\6 taxi\bin\Debug\6 taxi.exe
+D:\Учёба\Практика\6 taxi\6 taxi\bin\Debug\6 taxi.pdb
+D:\Учёба\Практика\6 taxi\6 taxi\obj\Debug\6 taxi.exe
+D:\Учёба\Практика\6 taxi\6 taxi\obj\Debug\6 taxi.pdb

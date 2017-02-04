@@ -1,0 +1,5 @@
+D:\Учёба\Практика\1.2\3 extrasensory\3 extrasensory\bin\Debug\3 extrasensory.exe.config
+D:\Учёба\Практика\1.2\3 extrasensory\3 extrasensory\bin\Debug\3 extrasensory.exe
+D:\Учёба\Практика\1.2\3 extrasensory\3 extrasensory\bin\Debug\3 extrasensory.pdb
+D:\Учёба\Практика\1.2\3 extrasensory\3 extrasensory\obj\Debug\3 extrasensory.exe
+D:\Учёба\Практика\1.2\3 extrasensory\3 extrasensory\obj\Debug\3 extrasensory.pdb

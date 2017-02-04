@@ -1,0 +1,6 @@
+D:\Учёба\Практика\1.1\menu\menu\bin\Debug\menu.exe.config
+D:\Учёба\Практика\1.1\menu\menu\bin\Debug\menu.exe
+D:\Учёба\Практика\1.1\menu\menu\bin\Debug\menu.pdb
+D:\Учёба\Практика\1.1\menu\menu\obj\Debug\menu.exe
+D:\Учёба\Практика\1.1\menu\menu\obj\Debug\menu.pdb
+D:\Учёба\Практика\1.1\menu\menu\obj\Debug\menu.csprojResolveAssemblyReference.cache

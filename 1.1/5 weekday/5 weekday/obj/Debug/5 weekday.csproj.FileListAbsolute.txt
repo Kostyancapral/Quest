@@ -1,0 +1,5 @@
+D:\Учёба\Практика\5 weekday\5 weekday\bin\Debug\5 weekday.exe.config
+D:\Учёба\Практика\5 weekday\5 weekday\bin\Debug\5 weekday.exe
+D:\Учёба\Практика\5 weekday\5 weekday\bin\Debug\5 weekday.pdb
+D:\Учёба\Практика\5 weekday\5 weekday\obj\Debug\5 weekday.exe
+D:\Учёба\Практика\5 weekday\5 weekday\obj\Debug\5 weekday.pdb

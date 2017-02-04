@@ -1,0 +1,6 @@
+D:\Учёба\Практика\3 time of year\3 time of year\bin\Debug\3 time of year.exe.config
+D:\Учёба\Практика\3 time of year\3 time of year\bin\Debug\3 time of year.exe
+D:\Учёба\Практика\3 time of year\3 time of year\bin\Debug\3 time of year.pdb
+D:\Учёба\Практика\3 time of year\3 time of year\obj\Debug\3 time of year.csprojResolveAssemblyReference.cache
+D:\Учёба\Практика\3 time of year\3 time of year\obj\Debug\3 time of year.exe
+D:\Учёба\Практика\3 time of year\3 time of year\obj\Debug\3 time of year.pdb

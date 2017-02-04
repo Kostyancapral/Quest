@@ -1,0 +1,6 @@
+D:\Учёба\Практика\7 prime number\7 prime number\bin\Debug\7 prime number.exe.config
+D:\Учёба\Практика\7 prime number\7 prime number\bin\Debug\7 prime number.exe
+D:\Учёба\Практика\7 prime number\7 prime number\bin\Debug\7 prime number.pdb
+D:\Учёба\Практика\7 prime number\7 prime number\obj\Debug\7 prime number.csprojResolveAssemblyReference.cache
+D:\Учёба\Практика\7 prime number\7 prime number\obj\Debug\7 prime number.exe
+D:\Учёба\Практика\7 prime number\7 prime number\obj\Debug\7 prime number.pdb

@@ -1,0 +1,5 @@
+D:\Учёба\Практика\1.2\5 arithmetic average\5 arithmetic average\bin\Debug\5 arithmetic average.exe.config
+D:\Учёба\Практика\1.2\5 arithmetic average\5 arithmetic average\bin\Debug\5 arithmetic average.exe
+D:\Учёба\Практика\1.2\5 arithmetic average\5 arithmetic average\bin\Debug\5 arithmetic average.pdb
+D:\Учёба\Практика\1.2\5 arithmetic average\5 arithmetic average\obj\Debug\5 arithmetic average.exe
+D:\Учёба\Практика\1.2\5 arithmetic average\5 arithmetic average\obj\Debug\5 arithmetic average.pdb

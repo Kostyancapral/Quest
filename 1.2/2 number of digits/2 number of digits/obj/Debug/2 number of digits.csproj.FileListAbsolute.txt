@@ -1,0 +1,5 @@
+D:\Учёба\Практика\1.2\2 number of digits\2 number of digits\bin\Debug\2 number of digits.exe.config
+D:\Учёба\Практика\1.2\2 number of digits\2 number of digits\bin\Debug\2 number of digits.exe
+D:\Учёба\Практика\1.2\2 number of digits\2 number of digits\bin\Debug\2 number of digits.pdb
+D:\Учёба\Практика\1.2\2 number of digits\2 number of digits\obj\Debug\2 number of digits.exe
+D:\Учёба\Практика\1.2\2 number of digits\2 number of digits\obj\Debug\2 number of digits.pdb

@@ -1,0 +1,5 @@
+D:\Учёба\Практика\1.1\1 multiplication table\1 multiplication table\bin\Debug\1 multiplication table.exe.config
+D:\Учёба\Практика\1.1\1 multiplication table\1 multiplication table\bin\Debug\1 multiplication table.exe
+D:\Учёба\Практика\1.1\1 multiplication table\1 multiplication table\bin\Debug\1 multiplication table.pdb
+D:\Учёба\Практика\1.1\1 multiplication table\1 multiplication table\obj\Debug\1 multiplication table.exe
+D:\Учёба\Практика\1.1\1 multiplication table\1 multiplication table\obj\Debug\1 multiplication table.pdb
