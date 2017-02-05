@@ -68,7 +68,7 @@ namespace _8_lotteries
                 }
                 else
                 {
-                    Console.WriteLine("введите \"yes\" есди хотите продолжить");
+                    Console.WriteLine("введите \"yes\" если хотите продолжить");
                     str=Console.ReadLine();
                 }
             }

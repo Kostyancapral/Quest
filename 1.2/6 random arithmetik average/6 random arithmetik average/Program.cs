@@ -16,10 +16,11 @@ namespace _5_arithmetic_average
             for (int i = 0; i < 5; i++)
             {
                 N[i] = rand.Next(-10000,10000);
+                Console.WriteLine("элемент["+(i+1)+"] = " + N[i]);
                 average += N[i];
             }
             average /= 5;
-            Console.WriteLine("Среднее арифметическое=" + average);
+            Console.WriteLine("Среднее арифметическое = " + average);
             Console.ReadLine();
         }
     }

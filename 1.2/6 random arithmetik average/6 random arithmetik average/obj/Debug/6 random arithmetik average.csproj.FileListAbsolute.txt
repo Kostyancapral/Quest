@@ -3,3 +3,4 @@ D:\Учёба\Практика\1.2\6 random arithmetik average\6 random arithmet
 D:\Учёба\Практика\1.2\6 random arithmetik average\6 random arithmetik average\bin\Debug\6 random arithmetik average.pdb
 D:\Учёба\Практика\1.2\6 random arithmetik average\6 random arithmetik average\obj\Debug\6 random arithmetik average.exe
 D:\Учёба\Практика\1.2\6 random arithmetik average\6 random arithmetik average\obj\Debug\6 random arithmetik average.pdb
+D:\Учёба\Практика\1.2\6 random arithmetik average\6 random arithmetik average\obj\Debug\6 random arithmetik average.csprojResolveAssemblyReference.cache

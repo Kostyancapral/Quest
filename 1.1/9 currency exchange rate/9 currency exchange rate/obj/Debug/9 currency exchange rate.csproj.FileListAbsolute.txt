@@ -4,3 +4,9 @@ D:\Учёба\Практика\9 currency exchange rate\9 currency exchange rate
 D:\Учёба\Практика\9 currency exchange rate\9 currency exchange rate\obj\Debug\9 currency exchange rate.csprojResolveAssemblyReference.cache
 D:\Учёба\Практика\9 currency exchange rate\9 currency exchange rate\obj\Debug\9 currency exchange rate.exe
 D:\Учёба\Практика\9 currency exchange rate\9 currency exchange rate\obj\Debug\9 currency exchange rate.pdb
+D:\Учёба\Практика\1.1\9 currency exchange rate\9 currency exchange rate\bin\Debug\9 currency exchange rate.exe.config
+D:\Учёба\Практика\1.1\9 currency exchange rate\9 currency exchange rate\obj\Debug\9 currency exchange rate.exe
+D:\Учёба\Практика\1.1\9 currency exchange rate\9 currency exchange rate\obj\Debug\9 currency exchange rate.pdb
+D:\Учёба\Практика\1.1\9 currency exchange rate\9 currency exchange rate\bin\Debug\9 currency exchange rate.exe
+D:\Учёба\Практика\1.1\9 currency exchange rate\9 currency exchange rate\bin\Debug\9 currency exchange rate.pdb
+D:\Учёба\Практика\1.1\9 currency exchange rate\9 currency exchange rate\obj\Debug\9 currency exchange rate.csprojResolveAssemblyReference.cache

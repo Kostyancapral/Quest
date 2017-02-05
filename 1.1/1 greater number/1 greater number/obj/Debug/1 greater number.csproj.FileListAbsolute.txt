@@ -3,3 +3,6 @@ D:\Учёба\Практика\1 greater number\1 greater number\bin\Debug\1 gre
 D:\Учёба\Практика\1 greater number\1 greater number\bin\Debug\1 greater number.pdb
 D:\Учёба\Практика\1 greater number\1 greater number\obj\Debug\1 greater number.exe
 D:\Учёба\Практика\1 greater number\1 greater number\obj\Debug\1 greater number.pdb
+D:\Учёба\Практика\1.1\1 greater number\1 greater number\bin\Debug\1 greater number.exe.config
+D:\Учёба\Практика\1.1\1 greater number\1 greater number\obj\Debug\1 greater number.exe
+D:\Учёба\Практика\1.1\1 greater number\1 greater number\obj\Debug\1 greater number.pdb

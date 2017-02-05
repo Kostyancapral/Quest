@@ -13,12 +13,12 @@ namespace _2_cat_or_dog
             string str;
             Console.Write("Text = ");
             str = Console.ReadLine();
-            if (str == "мяу" || str == "Мяу" || str == "meow" || str == "Meow")
+            if (str == "мяу" || str == "Мяу" || str == "МЯУ" || str == "meow" || str == "Meow")
             {
                 Console.WriteLine("Покорми кота");
             }
             else
-                if (str == "гав" || str == "Гав" || str == "bow-wow" || str == "Bow-wow")
+                if (str == "гав" || str == "Гав" || str == "ГАВ" || str == "bow-wow" || str == "Bow-wow")
                 {
                     Console.WriteLine("Погуляй с собакой");
                 }
